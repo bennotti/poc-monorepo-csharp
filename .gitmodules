@@ -1,0 +1,5 @@
+#[submodule "nuget-packages/${package-name}"]
+#	path = nuget-packages/${package-name}
+#	url = ${git-repo-url}
+#	branch = ${branch}
+
